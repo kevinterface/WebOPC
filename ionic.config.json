@@ -1,0 +1,7 @@
+{
+  "name": "WebOPC",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
